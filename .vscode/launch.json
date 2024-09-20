@@ -2,11 +2,12 @@
     "version": "0.2.0",
     "configurations": [
         
+        
         {
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "main.exe",
+            "program": "main",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
